@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMoviesStage2</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="poster">poster</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top rated</string>
+    <string name="favorite">favorite</string>
+    <string name="n_a">N/A</string>
+    <string name="trailers">Trailers</string>
+    <string name="out_of_ten">/10</string>
+</resources>
